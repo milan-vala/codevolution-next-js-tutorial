@@ -1,4 +1,24 @@
 {
+  "news": [
+    {
+      "id": 1,
+      "title": "Article 1",
+      "description": "Description 1",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "Article 2",
+      "description": "Description 2",
+      "category": "information technology"
+    },
+    {
+      "id": 3,
+      "title": "Article 3",
+      "description": "Description 3",
+      "category": "hollywood"
+    }
+  ],
   "products": [
     {
       "id": 1,
@@ -9,7 +29,7 @@
     {
         "id": 2,
         "title": "product 2",
-        "price": 2000,
+        "price": 2500,
         "description": "Description 2"
       },
       {
